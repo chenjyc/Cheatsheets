@@ -9,16 +9,16 @@ Some of the useful cheatsheets to have to make my life slightly (so much) easier
 
 # Python 
 
-NumPy 
+## NumPy 
 
-Pandas 
+## Pandas 
 
-[GeoPandas]
+## GeoPandas
 Visualization and processing [reference](https://github.com/prasunkgupta/python-cheat-sheets/blob/master/geopandas-shapely-geopy.ipynb)
 
-Scikitlearn
+## Scikitlearn
 
-Seaborn 
+## Seaborn 
 
 # Latex
 [Syntax](ftp://ftp.dante.de/tex-archive/info/latex-refsheet/LaTeX_RefSheet.pdf)

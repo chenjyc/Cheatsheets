@@ -25,3 +25,6 @@ Visualization and processing [reference](https://github.com/prasunkgupta/python-
 
 # C++
 
+# Machine learning 
+To quote something I read online:
+* "Today, we teach machines to learn. Tomorrow, we hope they'd return the favor" ;) *

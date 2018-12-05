@@ -1,6 +1,5 @@
-# Cheatsheets
-Some of the useful cheatsheets to have!  
-*Makes my life slightly (so much) easier*
+# Useful cheatsheets
+Some of the useful cheatsheets to have to make my life slightly (so much) easier! 
 
 # Markdown
 [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
